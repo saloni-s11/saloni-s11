@@ -1,5 +1,4 @@
-## Hi there, I'm Saloni 👋
-
+# Hi, I'm Saloni 👋
 <!--
 **saloni-s11/saloni-s11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,14 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi, I'm Saloni 👋
-
-🎓 Student at CCOEW  
-🎓 Diploma in Information Technology  
 
 🚀 Aspiring Full Stack Developer  
 💡 Passionate about building real-world tech solutions  
-
 ---
 
 ## 👩‍💻 About Me
