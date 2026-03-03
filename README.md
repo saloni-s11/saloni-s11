@@ -26,7 +26,7 @@ At the same time, I am strengthening my problem-solving abilities through Data S
 🌐 **Frontend:** HTML | CSS | JavaScript | React | Node.js  
 ⚙️ **Languages:** Python | Java | C++  
 🗄️ **Database:** SQL  
-🛠️ **Tools:** Git | GitHub | VS Code | Flask
+🛠️ **Tools:** Git | GitHub | VS Code | Flask  
 🧩 **Concepts:** OOP | DBMS | Data Structures & Algorithms  
 
 ---
