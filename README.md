@@ -24,9 +24,9 @@ At the same time, I am strengthening my problem-solving abilities through Data S
 ## 🛠 Tech Stack
 
 🌐 **Frontend:** HTML | CSS | JavaScript | React | Node.js  
-⚙️ **Backend:** Python | Flask | Java | C++  
+⚙️ **Languages:** Python | Java | C++  
 🗄️ **Database:** SQL  
-🛠️ **Tools:** Git | GitHub | VS Code  
+🛠️ **Tools:** Git | GitHub | VS Code | Flask
 🧩 **Concepts:** OOP | DBMS | Data Structures & Algorithms  
 
 ---
