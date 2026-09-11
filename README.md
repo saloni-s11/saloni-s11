@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 -->
 🎓 Student at CCOEW  
 🎓 Diploma in Information Technology  
-🚀 Aspiring Full Stack Developer  
+🚀 Aspiring Software Engineer
 💡 Passionate about building real-world tech solutions  
 
 Driven by curiosity and creativity, I enjoy transforming ideas into functional web applications that are meaningful and accessible.  
