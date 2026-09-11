@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 -->
 🎓 Student at CCOEW  
 🎓 Diploma in Information Technology  
-🚀 Aspiring Software Engineer
-💡 Passionate about building real-world tech solutions  
+🚀 Aspiring Software Engineer  
+💡 Passionate about building real-world tech solutions
 
 Driven by curiosity and creativity, I enjoy transforming ideas into functional web applications that are meaningful and accessible.  
 At the same time, I am strengthening my problem-solving abilities through Data Structures and Algorithms to build efficient and scalable solutions.
